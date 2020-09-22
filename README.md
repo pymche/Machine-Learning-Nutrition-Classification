@@ -22,5 +22,5 @@ Exploratory analysis and data visualisation are also available to explore the da
 
 Techniques including Feature Selection, Preprocessing with Pipeline, Cross Validation and Parameter Tuning are used in this report. 
 
-##### Models used: 
+#### Models used: 
 Decision Tree, Random Forest, Stochastic Gradient Descent, Naive Bayes, K-Nearest Neighbors, Gradient Boosting, Multi-Layer Perception.
