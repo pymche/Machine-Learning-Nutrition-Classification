@@ -2,9 +2,10 @@
 
 [Link to Report](https://github.com/pymche/Machine-Learning-Nutrition-Classification/blob/master/Nutrition_Analysis.ipynb)
 
-Train model using nutritional information to classify into various food groups
+Train models using nutritional information to classify into various food groups.
 
 Data obtained from [My Food Data](https://tools.myfooddata.com/nutrition-facts-database-spreadsheet.php)
+
 #### Preview of raw data
 ![Preview](https://i.imgur.com/mPxcRaQ.png)
 
