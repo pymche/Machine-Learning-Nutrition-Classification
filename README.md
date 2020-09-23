@@ -25,5 +25,6 @@ Techniques including Feature Selection, Preprocessing with Pipeline, Cross Valid
 #### Models used: 
 Decision Tree, Random Forest, Stochastic Gradient Descent, Naive Bayes, K-Nearest Neighbors, Gradient Boosting, Multi-Layer Perception.
 
-#### Results Comparison
+#### Results
+![Chart](https://i.imgur.com/RPNQj6u.png)
 ![Results](https://i.imgur.com/Gh8PUXV.png)
