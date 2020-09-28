@@ -32,3 +32,6 @@ Decision Tree, Random Forest, Stochastic Gradient Descent, Naive Bayes, K-Neares
 #### Results
 ![Chart](https://i.imgur.com/RPNQj6u.png)
 ![Results](https://i.imgur.com/Gh8PUXV.png)
+
+
+First commit: 22nd September, 2020
