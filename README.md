@@ -2,9 +2,10 @@
 
 [Link to Report](https://github.com/pymche/Machine-Learning-Nutrition-Classification/blob/master/Nutrition_Analysis.ipynb)
 
-Train model using nutritional information to classify into various food groups
+Train models using nutritional information to classify into various food groups.
 
 Data obtained from [My Food Data](https://tools.myfooddata.com/nutrition-facts-database-spreadsheet.php)
+
 #### Preview of raw data
 ![Preview](https://i.imgur.com/mPxcRaQ.png)
 
@@ -31,3 +32,6 @@ Decision Tree, Random Forest, Stochastic Gradient Descent, Naive Bayes, K-Neares
 #### Results
 ![Chart](https://i.imgur.com/RPNQj6u.png)
 ![Results](https://i.imgur.com/Gh8PUXV.png)
+
+
+First commit: 22nd September, 2020
